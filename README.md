@@ -1,2 +1,3 @@
-# slack-notifications-servicedesk-plus
-Slack Notifications for ServiceDesk Plus
+# Slack Notifications for ServiceDesk Plus
+
+Python script that helps post request details from ServiceDesk Plus to Slack
