@@ -1,16 +1,20 @@
 # Slack Notifications for ServiceDesk Plus
 
 # Author
-# hey, I’m Vladimir Mikhalev, but my friends call me Valdemar.
+# I’m Vladimir Mikhalev, the Docker Captain, but my friends can call me Valdemar.
+# https://www.docker.com/captains/vladimir-mikhalev/
 
 # My website with detailed IT guides: https://www.heyvaldemar.com/
 # Follow me on YouTube: https://www.youtube.com/channel/UCf85kQ0u1sYTTTyKVpxrlyQ?sub_confirmation=1
 # Follow me on Twitter: https://twitter.com/heyValdemar
 # Follow me on Instagram: https://www.instagram.com/heyvaldemar/
+# Follow me on Threads: https://www.threads.net/@heyvaldemar
+# Follow me on Mastodon: https://mastodon.social/@heyvaldemar
+# Follow me on Bluesky: https://bsky.app/profile/heyvaldemar.bsky.social
 # Follow me on Facebook: https://www.facebook.com/heyValdemarFB/
 # Follow me on TikTok: https://www.tiktok.com/@heyvaldemar
-# Follow me on [LinkedIn](https://www.linkedin.com/in/heyvaldemar/)
-# Follow me on [GitHub](https://github.com/heyvaldemar)
+# Follow me on LinkedIn: https://www.linkedin.com/in/heyvaldemar/
+# Follow me on GitHub: https://github.com/heyvaldemar
 
 # Communication
 # Chat with IT pros on Discord: https://discord.gg/AJQGCCBcqf
