@@ -1,3 +1,5 @@
+> **Archived.** The script builds its Slack payload by joining strings, so any quote or newline in a ticket subject breaks the request, and ServiceDesk Plus has shipped its own webhook actions since. Use those. The repository stays readable for reference.
+
 # Slack Notifications for ServiceDesk Plus
 
 Python script that helps post request details from ServiceDesk Plus to Slack.
